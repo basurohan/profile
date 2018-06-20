@@ -1,0 +1,19 @@
+header {
+    text-align: center;
+    background-image: linear-gradient(to bottom, #414242, #4e5050, #5a5e5e, #686d6d, #757c7c);
+    color: #dbdbdb;
+}
+
+h1 {
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+header p {
+    font-weight: bold;
+}
+
+.profile-pic {
+    height: 180px;
+    border-radius: 50%;
+}
